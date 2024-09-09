@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-https://github.com/user-attachments/assets/c025f9f2-c24b-4863-b891-f7b7bcaf0f04
-
+![fields_of_dreams](https://github.com/user-attachments/assets/f8cbdca8-e0ea-45f2-bf97-be80e5b1037d)
