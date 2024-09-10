@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![fields_of_dreams](https://github.com/user-attachments/assets/f8cbdca8-e0ea-45f2-bf97-be80e5b1037d)
+
+<img src="https://github.com/user-attachments/assets/f8cbdca8-e0ea-45f2-bf97-be80e5b1037d" alt="fields_of_dreams" width="500" height="300">
