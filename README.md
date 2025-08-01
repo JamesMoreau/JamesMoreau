@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  Consider supporting me:  
+  Consider supporting me
   <br>
   <a href="https://ko-fi.com/G2G61IYEIX">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
