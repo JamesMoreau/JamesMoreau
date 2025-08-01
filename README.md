@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8cbdca8-e0ea-45f2-bf97-be80e5b1037d" alt="fields_of_dreams">
-</p>
 
 Consider supporting me:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G61IYEIX)
+
+</p>
